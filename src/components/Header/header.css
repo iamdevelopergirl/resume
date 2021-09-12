@@ -1,0 +1,79 @@
+@font-face{
+    font-family: CrimsonText-Regular;
+    src: url(../../fonts/Crimson_Text/CrimsonText-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: CrimsonText-Bold;
+    src: url(../../fonts/Crimson_Text/CrimsonText-Bold.ttf) format('truetype');
+}
+
+.header-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    /* align-items: center; */
+    padding: 0 40px;
+    transition: 0.2s;
+    font-family: "CrimsonText-Bold";
+    background: transparent;
+    place-items: center;
+}
+
+.header-section{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+    transition: 0.2s;
+    top:0;
+    background: transparent;
+    margin-top: 2%;
+}
+
+h1{
+    flex-grow: 1;
+}
+
+.blog-title{
+    font-size: 1.5rem;
+    overflow-wrap: break-word;
+}
+
+.blog-name{
+    font-family: "CrimsonText-Bold";
+}
+
+.blog-designation{
+    font-family: "CrimsonText-Regular";
+}
+
+.blog-designation::before{
+    content: " / "
+}
+
+
+.navigation-ul{
+    display: flex;
+}
+
+a{
+    padding : 20px;
+    transition: transform 0.2s, color 1s;
+    /* font-size: 1.6em; */
+}
+
+a:hover{
+    transform : scale(1.5);
+    color :rgb(7, 236, 244)
+}
+
+.activeElem{
+    color: rgb(7, 236, 244);
+}
+
+.nav-bar{
+    flex-grow: 1;
+    font-size: 1em;
+    opacity: 1;
+    justify-self: flex-end;
+}

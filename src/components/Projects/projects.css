@@ -1,0 +1,61 @@
+.image-container{
+
+}
+
+.relative{
+    position: relative;
+}
+
+.vertical-bar{
+    position: relative;
+    margin: 69px 0px 39px 0;
+    left: 0px;
+    grid-area: 1 / 1 / 4 / 2;
+    background-color: rgb(7, 236, 244);
+    width: 2%;
+    height: 50%;
+}
+
+.align-start{
+    justify-self: start;
+    align-self: start;
+}
+
+.project-name{
+    color: rgb(7, 236, 244);
+    margin: 67px 0px 2px 0;
+    grid-area: 1 / 1 / 2 / 2;
+    left: 37px;
+}
+
+.job-position{
+    margin: 0px 0px 10px 0;
+    grid-area: 2 / 1 / 3 / 2;
+    left: 37px;
+}
+
+.project-description{
+    margin: 0px 0px 10px 0;
+    grid-area: 4 / 1 / 5 / 2;
+    left: 37px;
+    width: 40%;
+}
+
+.project-image{
+    margin: 0px 0px 0px 0;
+    left: 428px;
+    grid-area: 1 / 1 / 6 / 2;
+    width: 322px;
+    height: 404px;
+    background: oldlace;
+}
+
+.img-container{
+    background: url('../../assets/IE_Unsupported_Page1.png'), no-repeat;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    margin-top: 40%;
+}
+

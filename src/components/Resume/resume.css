@@ -1,0 +1,52 @@
+
+@font-face{
+    font-family: CrimsonText-Regular;
+    src: url(../../fonts/Crimson_Text/CrimsonText-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: CrimsonText-Bold;
+    src: url(../../fonts/Crimson_Text/CrimsonText-Bold.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: CrimsonText-SemiBold;
+    src: url(../../fonts/Crimson_Text/CrimsonText-SemiBold.ttf) format('truetype');
+}
+
+
+.text-edit{
+    justify-self: start;
+    align-self: start;
+    text-align: start;
+    
+}
+
+h2{
+    font-family: 'CrimsonText-Bold';
+    margin: 0;
+}
+
+.relative-position{
+    position: relative;
+    margin: 0px 0px 52px calc((100% - 980px) * 0.5);
+}
+
+.experience{
+    left: 128px;
+    grid-area: 3 / 1 / 4 / 2;
+    overflow-wrap: break-word;
+    pointer-events: none; 
+}
+
+.download-cv{
+    left: 698px;
+    grid-area: 3 / 1 / 4 / 2;
+}
+
+.education {
+    left: 128px;
+    grid-area: 9 / 1 / 8 / 2;
+    overflow-wrap: break-word;
+    pointer-events: none; 
+}

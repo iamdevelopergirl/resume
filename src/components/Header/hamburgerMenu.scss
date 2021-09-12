@@ -1,0 +1,41 @@
+.hamburger-menu-container{
+    background-color: black;
+    opacity: 0.6;
+    right: 0px;
+    height: 200px;
+    animation-name: slide-over;
+    animation-duration: 4s;
+}
+
+.right-grid-item{
+    z-index: 9999;
+    top : 0px;
+    right: 0px;
+    width: 100%;
+    position: fixed;
+    height: -webkit-fill-available;
+}
+
+.left-grid-item{
+    top: 0px;
+    left: 0px;
+    z-index: 9999;
+}
+
+.transform-right-grid{
+    transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99),width 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+    transform: translate3d(0, 0, 0) !important;
+}
+
+@media print, screen and (min-width: 64.0625em){
+    .right-grid-item{
+        width: 70%;
+    }
+}
+
+@keyframes slide-over{
+    0% { opacity: 0;}
+    30% {transition: opacity 1s;}
+    50% {transition: width 2s height 2s;}
+    100% {opacity: 1;}
+}

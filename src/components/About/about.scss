@@ -1,0 +1,37 @@
+.columns{
+    display: flex;
+    flex-direction: column;
+}
+
+.rows{
+    display: flex;
+}
+
+.left{
+    width : calc(100% - var(--padding) * 2);
+}
+
+.main{
+    width: 100%;
+    height: 1000px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+}
+
+.main-content{
+    width: calc(100% - var(--padding) * 2);
+    margin: 0 auto;
+}
+
+.absolute-positioned{
+    background-color: var(--color-bg1);
+    width: 100%;
+    --column-width: 393px;
+    --column-flex: 393;
+}
+
+.right-container{
+    width: 100%;
+    position: static;
+}

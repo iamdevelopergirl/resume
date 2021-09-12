@@ -1,0 +1,11 @@
+// @mixin font-stack($name, $weight){
+//     @debug "hey elakya";
+//     $filePath : "../../fonts/" + $name + ".ttf";
+//     @debug "hey elakya";
+//     @debug "Filepath value: #{$filePath}";
+//     @font-face {
+//         font-family: $name;
+//         src: url($filePath);
+//     }    
+//     font-weight: $weight;
+// }

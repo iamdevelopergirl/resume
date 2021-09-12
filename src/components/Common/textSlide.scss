@@ -1,0 +1,45 @@
+@font-face{
+    font-family: CrimsonText-Regular;
+    src: url(../../fonts/Crimson_Text/CrimsonText-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: CrimsonText-Bold;
+    src: url(../../fonts/Crimson_Text/CrimsonText-Bold.ttf) format('truetype');
+}
+
+.text-slide-container{
+    width : 50%;
+    // height: 25%;
+    overflow-y: auto;
+    margin: 10% 10%;
+    p{
+        color: white;
+        font-family: CrimsonText-Bold;
+        font-size: 18px;
+        animation: spin 10s infinite
+    }
+}
+
+@keyframes spin {
+    0%{
+        margin-top: 0;
+    }
+    16%{
+        margin-top: -60px;
+    }
+    33%{
+        margin-top: -120px;
+    }
+    50%{
+        margin-top: -180px;
+    }
+}
+
+
+@media print, screen and (min-width: 64.0625em){
+    text-slide-container{
+        width: 75%;
+    }
+}
+
