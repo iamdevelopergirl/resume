@@ -1,4 +1,3 @@
-import reactDom from 'react-dom';
 import {useEffect} from 'react';
 import React from 'react';
 import ReactDOM from 'react-dom';

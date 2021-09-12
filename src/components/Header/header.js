@@ -1,22 +1,9 @@
 import { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import './header.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars } from '@fortawesome/free-solid-svg-icons';
-import Modal from '../PortalModal/modalWrapper.js';
-import HamburgerMenu from './hamburgerMenu.js';
 
 function Header(props){
-
-    const [showHamburgeMenu, setShowHamburgerMenu] = useState(false);
-
-    const handleClick = () => {
-        setShowHamburgerMenu(true)
-    }
-
-    
-    return(
-        
+    return(    
         <header className="header-container">
             <section className="header-section">
                 <div className="blog-title">
@@ -32,13 +19,6 @@ function Header(props){
                     </nav>
                 </div>
             </section>
-            
-            {/* <div className="nav-bar" onClick={handleClick}>
-                <FontAwesomeIcon icon={faBars}/>
-                <Modal open={showHamburgeMenu}>
-                    <HamburgerMenu />
-                </Modal>
-            </div> */}
         </header>
     )
 }

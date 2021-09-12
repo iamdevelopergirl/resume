@@ -4,11 +4,6 @@ import './resume.css';
 import Experience from './experience.js';
 import SkillSet from './skillset.js';
 
-const Role1 = "";
-const Role2= "";
-const Role3= "";
-const Role4 = "";
-
 const handleDownloadClick = () => {
 
 }

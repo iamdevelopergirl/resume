@@ -7,10 +7,6 @@ const contacts = {
     "Follow" : ""
 }
 
-const handleLinkedInIconClick = ()  => {
-    window.open('https://www.linkedin.com/in/elakya-v/');
-}
-
 const contactDetails = () => {
 
     // return iconList.map(([key, value]) => 
