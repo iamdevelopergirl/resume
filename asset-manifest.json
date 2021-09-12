@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.c2b2d554.chunk.css",
+    "main.js": "/resume/static/js/main.5468a639.chunk.js",
+    "main.js.map": "/resume/static/js/main.5468a639.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.77034927.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.77034927.js.map",
+    "static/js/2.b5d4c862.chunk.js": "/resume/static/js/2.b5d4c862.chunk.js",
+    "static/js/2.b5d4c862.chunk.js.map": "/resume/static/js/2.b5d4c862.chunk.js.map",
+    "static/js/3.14a1de59.chunk.js": "/resume/static/js/3.14a1de59.chunk.js",
+    "static/js/3.14a1de59.chunk.js.map": "/resume/static/js/3.14a1de59.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "static/css/main.c2b2d554.chunk.css.map": "/resume/static/css/main.c2b2d554.chunk.css.map",
+    "static/js/2.b5d4c862.chunk.js.LICENSE.txt": "/resume/static/js/2.b5d4c862.chunk.js.LICENSE.txt",
+    "static/media/footer.css": "/resume/static/media/CrimsonText-Regular.3da9da3d.ttf",
+    "static/media/experience.css": "/resume/static/media/CrimsonText-SemiBold.50231599.ttf",
+    "static/media/projects.css": "/resume/static/media/IE_Unsupported_Page1.c45a54cf.png",
+    "static/media/facebook-icon.acd66cb0.svg": "/resume/static/media/facebook-icon.acd66cb0.svg",
+    "static/media/github-icon.04be58c1.svg": "/resume/static/media/github-icon.04be58c1.svg",
+    "static/media/linkedin-icon.1633a962.svg": "/resume/static/media/linkedin-icon.1633a962.svg",
+    "static/media/home.css": "/resume/static/media/profile-photo.bf564fed.jpg",
+    "static/media/twitter-icon.5ae9f4cf.svg": "/resume/static/media/twitter-icon.5ae9f4cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77034927.js",
+    "static/js/2.b5d4c862.chunk.js",
+    "static/css/main.c2b2d554.chunk.css",
+    "static/js/main.5468a639.chunk.js"
+  ]
+}
