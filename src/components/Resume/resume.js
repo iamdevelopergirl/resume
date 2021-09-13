@@ -15,8 +15,8 @@ const Resume = () => (
                    <h2>Experiences</h2>
             </div>
             <div className="download-cv text-edit relative-position">
-                    <a href="../../assets/Elakya_V_-_Senior_Frontend_Engineer.pdf" download>
-                    <Button name="Download CV" className="green" onClick={handleDownloadClick}/>
+                    <a href="../../assets/Elakya_Velumaniyan_-_Senior_Frontend_Engineer.pdf" download="Elakya_Velumaniyan_-_Senior_Frontend_Engineer.pdf">
+                        <Button name="Download CV" className="green"/>
                     </a>
             </div>
             <Experience 

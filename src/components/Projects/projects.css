@@ -41,17 +41,13 @@
     margin: 0px 0px 0px 0;
     left: 428px;
     grid-area: 1 / 1 / 6 / 2;
-    width: 322px;
+    width: 328px;
     height: 404px;
     background: oldlace;
 }
 
 .img-container{
-    background: url('../../assets/IE_Unsupported_Page1.png'), no-repeat;
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 100%;
+    width: 99%;
     height: 100%;
-    margin-top: 40%;
 }
 

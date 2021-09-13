@@ -16,7 +16,7 @@ const ProjectList = ({projectNumber, name, jobPosition, description, image}) => 
             {description}
         </div>
         <div className="project-image relative align-start">
-            <div className="img-container"></div>
+            <img className={`img-container`} src={image} alt={`Project - ${projectNumber}`}/>
         </div>
     </div>
     )
