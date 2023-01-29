@@ -3,10 +3,31 @@ import ProjectList from './projectList.js';
 import IE_page from '../../assets/IE_Unsupported_Page1.png';
 import QR_page from '../../assets/QR_Code_Page.png';
 import PWD_page from '../../assets/Password_gen_Page.png';
+import YEMEK_page from '../../assets/Yemeksepeti.png';
+import PEDIDOSYA_page from '../../assets/Pedidosya.png';
+import FOODPANDA_page from '../../assets/Foodpanda.png';
 
 const Projects = () => (
     <div>
         <Layout title="Projects">
+            <ProjectList
+            projectNumber={1}
+            name="Pedidosya Vendor Portal"
+            jobPosition="Senior Software Engineer"
+            description="UI/Self sign up form to successfully onboard South America region restaurant/vendors into delivery product"
+            image={PEDIDOSYA_page}/>
+            <ProjectList
+            projectNumber={1}
+            name="Yemesepeti Vendor Portal"
+            jobPosition="Senior Software Engineer"
+            description="UI/Self sign up form to successfully onboard Turkey region restaurant/vendors into delivery product"
+            image={YEMEK_page}/>
+            <ProjectList
+            projectNumber={1}
+            name="Foodpanda Vendor Portal"
+            jobPosition="Senior Software Engineer"
+            description="UI/Self sign up form to successfully onboard Asia region restaurant/vendors into a delivery product"
+            image={FOODPANDA_page}/>
             <ProjectList
             projectNumber={1}
             name="IE Unsupported page"

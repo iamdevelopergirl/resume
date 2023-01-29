@@ -10,6 +10,7 @@ const SkillSet = () => (
             <div><p>React.js</p></div>
             <div><p>HTML</p></div>
             <div><p>CSS</p></div>
+            <div><p>LWC (Lightning design system)</p></div>
             <div><p>Python</p></div>
             <div><p>Swift</p></div>
             <div><p>AWS</p></div>

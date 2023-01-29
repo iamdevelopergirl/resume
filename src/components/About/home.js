@@ -38,10 +38,13 @@ const Home = () => {
                         <Button id="projects" name="Projects" onClick={() => push('/projects')} className="black"/>
                     </div>
                     <div className="summary">
-                        I'm an IT professional with deep knowledge and proficiency in JavaScript, React.Js, HTML, CSS, and mobile responsive website development, as well as highly potent skills and ability in writing cross browser extension code. 
+                        I'm an IT professional with deep knowledge and proficiency in JavaScript, React.Js, HTML, CSS, Lightning design system and mobile responsive website development, as well as highly potent skills and ability in writing cross browser extension code. 
                         <br/>
                         <br/>
-                        I'm currently working with NortonLifeLock as a senior software engineer for Norton Password Manager product.
+                        I'm currently working with Delivery Hero as a senior software engineer for the clients's vendor portal.
+                        <br/>
+                        <br/>
+                        I was working with NortonLifeLock as a product owner for Norton Password Manager product.
                     </div>
                 </div>
             </div>
