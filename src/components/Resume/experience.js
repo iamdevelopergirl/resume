@@ -13,7 +13,7 @@ const rolesElement = (roles) => {
         <div>
             <p>{roles[0]}</p>
             <ol>
-                {listRoles(roles.slice(1, roles.length-2))}
+                {listRoles(roles.slice(1, roles.length-1))}
             </ol>
             <p>
                 <b>{roles[roles.length-1]}</b>
