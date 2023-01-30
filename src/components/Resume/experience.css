@@ -85,6 +85,16 @@
     width: 90%;
 }
 
+.experience-7{
+    position: relative;
+    margin: 0px 0px 39px calc((100% - 980px) * 0.5);
+    left: 128px;
+    grid-area: 11 / 1 / 12 / 2;
+    justify-self: start;
+    align-self: start;
+    width: 90%;
+}
+
 h3, h2{
     margin: 0;
 }

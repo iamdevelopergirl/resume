@@ -32,6 +32,7 @@ const Resume = () => (
             "Streamlined the process of comparing styling changes and deploying them by eliminating manual work, leading to an impressive increase in productivity time of 80%. This improvement greatly increased the efficiency of the team.",
             "Designed a webpage for the Pedidosya vendor portal that served as a model of excellence, inspiring stakeholders from 3 other markets in various regions to adopt the same design, highlighting the value of my design skills and the impact it had on the company's success.",
             "Played a vital role in the development of the team by hiring and mentoring 3 front-end developers, expanding their skill set in the Salesforce Lightning Design System. This led to a significant improvement in the team's overall performance and capabilities.",
+            "Technologies used: Javascript, React.js, HTML, CSS, Lightning design system (LWC)"
             ]}
             />
             <Experience 
