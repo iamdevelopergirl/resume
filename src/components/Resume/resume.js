@@ -25,7 +25,7 @@ const Resume = () => (
             jobPosition="Senior Software Engineer"
             companyName="Delivery Hero"
             jobLocation="Dubai"
-            roles={["I have owned nearly 4 projects for each quater to redesign the  from initial research and conceptual design through testing and implementation phases. For some of the projects, I even worked with external teams like mobile, UX and SRE team to get the builds to clousre and release it. Some of my projects and respective responsibilities include", 
+            roles={["I have owned nearly 4 projects for each quater to redesign the  from initial research and conceptual design through testing and implementation phases.", 
             "Significantly improved web page performance by 70% by addressing issues identified in the lighthouse report, through optimization of image load time, design of a new architecture for styling and establishment of standards for maintainable code resulting in a more efficient and user-friendly experience.",
             "Overhauled the entire vendor portal for Foodpanda, resulting in a substantial increase in onboarding conversion rate from 50% to 98%. Continuously working to further improve the conversion rate through user-centered interactive testing to enhance the overall user experience.",
             "Successfully established a new market in Turkey for Yemeksepeti by launching a web page, which now receives over 88% of orders. This was achieved through the successful implementation of my market entry strategy.",
