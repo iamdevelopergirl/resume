@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.68400d35.chunk.css",
-    "main.js": "/resume/static/js/main.d2f1d269.chunk.js",
-    "main.js.map": "/resume/static/js/main.d2f1d269.chunk.js.map",
+    "main.css": "/resume/static/css/main.7b9c4f11.chunk.css",
+    "main.js": "/resume/static/js/main.6a768f1a.chunk.js",
+    "main.js.map": "/resume/static/js/main.6a768f1a.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.fe18fa8b.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.fe18fa8b.js.map",
     "static/js/2.626bf864.chunk.js": "/resume/static/js/2.626bf864.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0de2a0e5.chunk.js": "/resume/static/js/3.0de2a0e5.chunk.js",
     "static/js/3.0de2a0e5.chunk.js.map": "/resume/static/js/3.0de2a0e5.chunk.js.map",
     "index.html": "/resume/index.html",
-    "static/css/main.68400d35.chunk.css.map": "/resume/static/css/main.68400d35.chunk.css.map",
+    "static/css/main.7b9c4f11.chunk.css.map": "/resume/static/css/main.7b9c4f11.chunk.css.map",
     "static/js/2.626bf864.chunk.js.LICENSE.txt": "/resume/static/js/2.626bf864.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/resume/static/media/CrimsonText-Regular.3da9da3d.ttf",
     "static/media/experience.css": "/resume/static/media/CrimsonText-SemiBold.50231599.ttf",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.fe18fa8b.js",
     "static/js/2.626bf864.chunk.js",
-    "static/css/main.68400d35.chunk.css",
-    "static/js/main.d2f1d269.chunk.js"
+    "static/css/main.7b9c4f11.chunk.css",
+    "static/js/main.6a768f1a.chunk.js"
   ]
 }
