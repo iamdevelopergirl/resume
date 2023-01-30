@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.c6dc3a65.chunk.css",
-    "main.js": "/resume/static/js/main.8f047c73.chunk.js",
-    "main.js.map": "/resume/static/js/main.8f047c73.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.77034927.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.77034927.js.map",
-    "static/js/2.b5d4c862.chunk.js": "/resume/static/js/2.b5d4c862.chunk.js",
-    "static/js/2.b5d4c862.chunk.js.map": "/resume/static/js/2.b5d4c862.chunk.js.map",
-    "static/js/3.14a1de59.chunk.js": "/resume/static/js/3.14a1de59.chunk.js",
-    "static/js/3.14a1de59.chunk.js.map": "/resume/static/js/3.14a1de59.chunk.js.map",
+    "main.css": "/resume/static/css/main.68400d35.chunk.css",
+    "main.js": "/resume/static/js/main.d2f1d269.chunk.js",
+    "main.js.map": "/resume/static/js/main.d2f1d269.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.fe18fa8b.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.fe18fa8b.js.map",
+    "static/js/2.626bf864.chunk.js": "/resume/static/js/2.626bf864.chunk.js",
+    "static/js/2.626bf864.chunk.js.map": "/resume/static/js/2.626bf864.chunk.js.map",
+    "static/js/3.0de2a0e5.chunk.js": "/resume/static/js/3.0de2a0e5.chunk.js",
+    "static/js/3.0de2a0e5.chunk.js.map": "/resume/static/js/3.0de2a0e5.chunk.js.map",
     "index.html": "/resume/index.html",
-    "static/css/main.c6dc3a65.chunk.css.map": "/resume/static/css/main.c6dc3a65.chunk.css.map",
-    "static/js/2.b5d4c862.chunk.js.LICENSE.txt": "/resume/static/js/2.b5d4c862.chunk.js.LICENSE.txt",
+    "static/css/main.68400d35.chunk.css.map": "/resume/static/css/main.68400d35.chunk.css.map",
+    "static/js/2.626bf864.chunk.js.LICENSE.txt": "/resume/static/js/2.626bf864.chunk.js.LICENSE.txt",
     "static/media/footer.css": "/resume/static/media/CrimsonText-Regular.3da9da3d.ttf",
     "static/media/experience.css": "/resume/static/media/CrimsonText-SemiBold.50231599.ttf",
+    "static/media/Foodpanda.da48035e.png": "/resume/static/media/Foodpanda.da48035e.png",
     "static/media/IE_Unsupported_Page1.c45a54cf.png": "/resume/static/media/IE_Unsupported_Page1.c45a54cf.png",
     "static/media/Password_gen_Page.c5f618a2.png": "/resume/static/media/Password_gen_Page.c5f618a2.png",
+    "static/media/Pedidosya.1a85311e.png": "/resume/static/media/Pedidosya.1a85311e.png",
     "static/media/QR_Code_Page.1681eb4a.png": "/resume/static/media/QR_Code_Page.1681eb4a.png",
+    "static/media/Yemeksepeti.1970ce40.png": "/resume/static/media/Yemeksepeti.1970ce40.png",
     "static/media/facebook-icon.acd66cb0.svg": "/resume/static/media/facebook-icon.acd66cb0.svg",
     "static/media/github-icon.04be58c1.svg": "/resume/static/media/github-icon.04be58c1.svg",
     "static/media/linkedin-icon.1633a962.svg": "/resume/static/media/linkedin-icon.1633a962.svg",
@@ -24,9 +27,9 @@
     "static/media/twitter-icon.5ae9f4cf.svg": "/resume/static/media/twitter-icon.5ae9f4cf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.77034927.js",
-    "static/js/2.b5d4c862.chunk.js",
-    "static/css/main.c6dc3a65.chunk.css",
-    "static/js/main.8f047c73.chunk.js"
+    "static/js/runtime-main.fe18fa8b.js",
+    "static/js/2.626bf864.chunk.js",
+    "static/css/main.68400d35.chunk.css",
+    "static/js/main.d2f1d269.chunk.js"
   ]
 }
